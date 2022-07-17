@@ -21605,3 +21605,11 @@ h1+p {
 .container--4 {
   display: block; 
 }
+
+.social-icon {
+  display : inline-flex;
+  height :10%;
+  width: 10%;
+  padding-inline: 1rem;
+  margin:2rem;
+}
