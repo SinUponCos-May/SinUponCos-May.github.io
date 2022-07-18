@@ -90,3 +90,8 @@ class parallaxTiltEffect {
     element: $('.wrap--3'),
     tiltEffect: 'reverse'
   });
+
+  const wrap4 = new parallaxTiltEffect({
+    element: $('.wrap--4'),
+    tiltEffect: 'normal'
+  });

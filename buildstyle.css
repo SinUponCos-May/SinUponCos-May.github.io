@@ -21214,6 +21214,7 @@ body:before {
   position: absolute;
   left: 2rem;
   top: 2rem;
+  font-size: 3rem;
   will-change: text-shadow;
   -webkit-animation: rgbText 2s steps(9) 0s infinite alternate;
           animation: rgbText 2s steps(9) 0s infinite alternate;
@@ -21229,6 +21230,7 @@ body:before {
   position: absolute;
   right: 2rem;
   top: 2rem;
+  font-size: 3rem;
   will-change: text-shadow;
   -webkit-animation: rgbText 1s steps(9) 0s infinite alternate;
           animation: rgbText 1s steps(9) 0s infinite alternate;
